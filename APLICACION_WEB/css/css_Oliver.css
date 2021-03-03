@@ -1,0 +1,14 @@
+.fondoPantalla{
+	
+	background: #aa4b6b;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #3b8d99, #6b6b83, #aa4b6b);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, rgba(59, 140, 153, 0.61), rgba(107, 107, 131, 0.61), rgba(170, 75, 107, 0.61)), url("E:/Maestria en Ingenieria de Software y Sistemas Informaticos/Computación en el Cliente Web/ENTREGAS TRABAJOS/APLICACION_WEB/imagenes/fondo.jpg"); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.tituloPagina{
+	animate__backInUp
+}
+
+.error{
+	color: red;
+}
